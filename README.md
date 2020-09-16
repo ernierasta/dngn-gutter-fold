@@ -12,3 +12,4 @@ There are two versions in this repository:
 ## Changelog
 
 * 2020-9-16 first version, no pdf, not verified - be careful!
+* 2020-9-16 fixed bleed on all pages
