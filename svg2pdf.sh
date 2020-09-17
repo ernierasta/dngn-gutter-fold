@@ -10,6 +10,8 @@
 
 DIR="$1"
 TEMP="temp"
+DNGNVER=1.1
+FILEVER=1.0
 
 # make temporary directory
 mkdir -p $TEMP
@@ -22,7 +24,7 @@ for FILE in `ls $DIR/ | grep ".svg"`; do
 done
 
 # use pdfjam to join all pdf files to one multipage pdf
-pdfjam --fitpaper true temp/*.pdf -o "dngn-1.1-$DIR-gutter.pdf"
+pdfjam --fitpaper true temp/*.pdf -o "dngn-$DNGNVER-$DIR-gutter-$FILEVER.pdf"
 
 # remove temp
 rm -rf $TEMP
