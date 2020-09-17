@@ -23,4 +23,4 @@ Please give Barny feadback if you play the game!
 * 2020-9-17 fix original size pages 17-22, converted Minimal Mono to path, to render as intended by author
 * 2020-9-17 fix original size token sizes, changed order - optional tokens on last page
 * 2020-9-17 final clean up of original, release of original size 1.0 pdf
-
+* 2020-9-17 original - added forgoten second page of optional monster tokens
