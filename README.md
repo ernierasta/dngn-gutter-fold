@@ -13,3 +13,8 @@ There are two versions in this repository:
 
 * 2020-9-16 first version, no pdf, not verified - be careful!
 * 2020-9-16 fixed bleed on all pages
+* 2020-9-17 add scripts to automate pdf creation
+* 2020-9-17 fix original size page 12 backs
+* 2020-9-17 fix original size pages 17-22, converted Minimal Mono to path, to render as intended by author
+* 2020-9-17 fix original size token sizes, changed order - optional tokens on last page
+
